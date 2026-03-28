@@ -1,0 +1,14 @@
+.next
+node_modules
+.vercel
+.env
+.env.local
+coverage
+playwright-report
+test-results
+/Photos/
+/Oscar Marhuenda (1).png
+/*.pdf
+/*.docx
+/*.xlsx
+/*.pptx
